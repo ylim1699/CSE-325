@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ihwh4PNAZeI=",
+  "dgSpecHash": "h6zdn1AxRts=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ylim0\\Desktop\\Fall 2026\\CSE-325\\practiceNET\\practiceNET.csproj",
+  "projectFilePath": "C:\\Users\\ylim0\\Desktop\\Fall 2026!!\\CSE 325\\CSE-325\\practiceNET\\practiceNET.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ylim0\\.nuget\\packages\\humanizer\\2.11.10\\humanizer.2.11.10.nupkg.sha512",
     "C:\\Users\\ylim0\\.nuget\\packages\\humanizer.core\\2.11.10\\humanizer.core.2.11.10.nupkg.sha512",
@@ -52,7 +52,11 @@
     "C:\\Users\\ylim0\\.nuget\\packages\\humanizer.core.vi\\2.11.10\\humanizer.core.vi.2.11.10.nupkg.sha512",
     "C:\\Users\\ylim0\\.nuget\\packages\\humanizer.core.zh-cn\\2.11.10\\humanizer.core.zh-cn.2.11.10.nupkg.sha512",
     "C:\\Users\\ylim0\\.nuget\\packages\\humanizer.core.zh-hans\\2.11.10\\humanizer.core.zh-hans.2.11.10.nupkg.sha512",
-    "C:\\Users\\ylim0\\.nuget\\packages\\humanizer.core.zh-hant\\2.11.10\\humanizer.core.zh-hant.2.11.10.nupkg.sha512"
+    "C:\\Users\\ylim0\\.nuget\\packages\\humanizer.core.zh-hant\\2.11.10\\humanizer.core.zh-hant.2.11.10.nupkg.sha512",
+    "C:\\Users\\ylim0\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.31\\microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\ylim0\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.31\\microsoft.windowsdesktop.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\ylim0\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.31\\microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\ylim0\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.31\\microsoft.netcore.app.host.win-x64.8.0.31.nupkg.sha512"
   ],
   "logs": []
 }

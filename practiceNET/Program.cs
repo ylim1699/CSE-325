@@ -1,3 +1,4 @@
+﻿using Humanizer;
 // Console.WriteLine("What is your favorite Color?");
 
 // string favoriteColor = Console.ReadLine() ?? "";
@@ -9,8 +10,6 @@
 
 // launch 1
 
-// using System.Runtime.Intrinsics.Arm;
-
 // Console.WriteLine("Welcome to the greetings program!");
 
 // Console.Write("What is your name? ");
@@ -20,8 +19,6 @@
 // Console.WriteLine($"Welcom {name} It's great to meet you.");
 
 // launch 2
-
-using System.Runtime.Intrinsics.Arm;
 
 Console.Write("What is your name?");
 string name = Console.ReadLine()!;

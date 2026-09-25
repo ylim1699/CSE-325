@@ -1,0 +1,35 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug practiceNET",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build practiceNET",
+      "program": "${workspaceFolder}/practiceNET/bin/Debug/net8.0/practiceNET.dll",
+      "cwd": "${workspaceFolder}/practiceNET",
+      "console": "integratedTerminal",
+      "stopAtEntry": false
+    },
+    {
+      "name": "Debug DotNetDebugging",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build DotNetDebugging",
+      "program": "${workspaceFolder}/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.dll",
+      "cwd": "${workspaceFolder}/DotNetDebugging",
+      "console": "integratedTerminal",
+      "stopAtEntry": false
+    },
+    {
+      "name": "Debug mslearn-dotnet-files",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build mslearn-dotnet-files",
+      "program": "${workspaceFolder}/filesAndDirectories/bin/Debug/net8.0/mslearn-dotnet-files.dll",
+      "cwd": "${workspaceFolder}/mslearn-dotnet-files",
+      "console": "integratedTerminal",
+      "stopAtEntry": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build practiceNET",
+      "type": "process",
+      "command": "dotnet",
+      "args": ["build", "${workspaceFolder}/practiceNET/practiceNET.csproj"],
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "build DotNetDebugging",
+      "type": "process",
+      "command": "dotnet",
+      "args": ["build", "${workspaceFolder}/DotNetDebugging/DotNetDebugging.csproj"],
+      "problemMatcher": "$msCompile"
+    }
+  ]
+}
